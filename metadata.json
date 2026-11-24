@@ -1,0 +1,6 @@
+{
+  "name": "Metro Rush 3D",
+  "description": "Jeu de course infinie 3D ultra-réaliste sur rails de métro pour PC avec éclairage volumétrique, reflets dynamiques PBR, physique fluide et système de particules avancé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
